@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "IDCGames",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "IDCGames",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": [		
+		"5.0",
+		"5.1",
+		"5.2",
+		"5.3"
+	],
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "IDCGames",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
